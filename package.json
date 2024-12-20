@@ -73,7 +73,7 @@
     "uuid": "8.3.2"
   },
   "dependencies": {
-    "cachedir": "2.3.0",
+    "cachedir": "2.4.0",
     "cz-conventional-changelog": "3.3.0",
     "dedent": "0.7.0",
     "detect-indent": "6.1.0",
